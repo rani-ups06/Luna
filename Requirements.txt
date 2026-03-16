@@ -1,0 +1,5 @@
+requirements.txt (the libraries i installed to run my application)
+pip install stramlit
+pip install streamlit pylint
+NOTE: If you have any other requirements ( Optional / External Libraries ),
+openai, requests, numpy, pandas, matplotlib. (these are the additional libraries if you are having structured tables,etc)
